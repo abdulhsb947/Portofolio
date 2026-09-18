@@ -16,7 +16,7 @@ import FotoKeamanan from "@/assets/log kemanan.png";
 import FotoNotifikasi from "@/assets/notifikasi.png";
 import FotoPengaturan from "@/assets/pengaturan.png";
 import FotoBoxplot from "@/assets/g_Pertama.png";
-import FotoBoxplot2 from "@/assets/g_Kedua.png";
+import FotoBoxplot2 from "@/assets/g_kedua.png";
 import FotoScatterPlot from "@/assets/g_ketiga.png";
 import FotoHeatmap from "@/assets/g_empat.png";
 import FotoScatterPlot2 from "@/assets/g_lima.png";
